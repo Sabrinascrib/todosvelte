@@ -1,6 +1,5 @@
 <script>
   import TodoInput from "./TodoInput.svelte";
-
   import { todos } from "../../store/TodoStore";
 </script>
 
